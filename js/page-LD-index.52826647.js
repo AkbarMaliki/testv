@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["page-LD-index"],{d756:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" asd ")])},s=[],a={mounted:function(){this.$router.push("/ld/dashboard")}},d=a,o=t("2877"),r=Object(o["a"])(d,u,s,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=page-LD-index.52826647.js.map
